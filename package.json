@@ -1,0 +1,15 @@
+{
+  "name": "cucumber",
+  "version": "1.0.0",
+  "description": "test1",
+  "main": "index.js",
+  "dependencies": {
+    "cucumber": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
